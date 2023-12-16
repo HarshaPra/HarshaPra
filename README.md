@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Leafycode International**
 
-- 🌱 I’m currently learning **"Cutting-edge technologies**
+- 🌱 I’m currently learning **Cutting-edge technologies**
 
 - 📫 How to reach me **Harshapradeep210@gmail.com**
 
