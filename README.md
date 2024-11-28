@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Leafycode Internationa;<br>👯 I’m collaborate on image crafter<br>🌱 I’m currently learning Cutting-edge technologies<br>💬 Ask me about reactJs nodeJs<br>
+🔭 I’m currently working on Leafycode International;<br>👯 I’m collaborate on image crafter<br>🌱 I’m currently learning Cutting-edge technologies<br>💬 Ask me about reactJs nodeJs<br>
 
 
 ## 🌐 Socials:
